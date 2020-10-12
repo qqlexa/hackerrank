@@ -1,2 +1,2 @@
-# A Very Big Sum
-<a href=https://www.hackerrank.com/challenges/a-very-big-sum>source</a>
+# hackerrank.com
+<a href=https://www.hackerrank.com/qqlexa>My account</a>
