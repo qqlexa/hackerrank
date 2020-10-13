@@ -4,4 +4,7 @@
   <ul>Easy
     <li> </li>
   </ul>
+  <ul>Medium
+    <li> </li>
+  </ul>
 </ul>
