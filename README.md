@@ -7,4 +7,7 @@
   <ul>Medium
     <li> </li>
   </ul>
+  <ul>Hard
+    <li> </li>
+  </ul>
 </ul>
