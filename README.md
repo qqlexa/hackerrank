@@ -1,7 +1,7 @@
 # hackerrank.com
 <a href=https://www.hackerrank.com/qqlexa>My account</a>
 <ul>Stat
-  <ol>Easy
+  <ol type="1">Easy
     <li>
       <a href="https://github.com/qqlexa/hackerrank/tree/main/Easy/A%20Very%20Big%20Sum">A Very Big Sum</a>
     </li>
@@ -16,7 +16,7 @@
     </li>
   </ol>
   <!--
-  <ol>Medium
+  <ol type="1">Medium
     <li> </li>
   </ol>
   <ol>Hard
