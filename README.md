@@ -14,6 +14,9 @@
     <li>
       <a href="https://github.com/qqlexa/hackerrank/tree/main/Easy/Plus%20Minus">Plus Minus</a>
     </li>
+    <li>
+      <a href="https://github.com/qqlexa/hackerrank/tree/main/Easy/Staircase">Staircase</a>
+    </li>
   </ol>
   <!--
   <ol type="1">Medium
