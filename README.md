@@ -28,9 +28,6 @@
     <li>
       <a href="https://github.com/qqlexa/hackerrank/tree/main/Easy/Compare%20the%20Triplets">Compare the Triplets</a>
     </li>
-    <li>
-      <a href="https://github.com/qqlexa/hackerrank/tree/main/Easy/Diagonal%20Difference">Diagonal Difference</a>
-    </li>
   </ol>
   <!--
   <ol>Hard
