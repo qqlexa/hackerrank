@@ -23,7 +23,7 @@
   </ol>
   <ol type="1">Medium
     <li>
-      <a href="https://github.com/qqlexa/hackerrank/tree/main/Easy/A%20Very%20Big%20Sum">A Very Big Sum</a>
+      <a href="https://github.com/qqlexa/hackerrank/tree/main/Medium/Greedy%20Florist">Greedy Florist</a>
     </li>
     <li>
       <a href="https://github.com/qqlexa/hackerrank/tree/main/Easy/Compare%20the%20Triplets">Compare the Triplets</a>
