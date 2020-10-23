@@ -26,7 +26,7 @@
       <a href="https://github.com/qqlexa/hackerrank/tree/main/Medium/Greedy%20Florist">Greedy Florist</a>
     </li>
     <li>
-      <a href="https://github.com/qqlexa/hackerrank/tree/main/Easy/Compare%20the%20Triplets">Compare the Triplets</a>
+      <a href="https://github.com/qqlexa/hackerrank/tree/main/Medium/Extra%20Long%20Factorials">Extra Long Factorials</a>
     </li>
   </ol>
   <!--
