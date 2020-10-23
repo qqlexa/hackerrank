@@ -31,15 +31,6 @@
     <li>
       <a href="https://github.com/qqlexa/hackerrank/tree/main/Easy/Diagonal%20Difference">Diagonal Difference</a>
     </li>
-    <li>
-      <a href="https://github.com/qqlexa/hackerrank/tree/main/Easy/Plus%20Minus">Plus Minus</a>
-    </li>
-    <li>
-      <a href="https://github.com/qqlexa/hackerrank/tree/main/Easy/Staircase">Staircase</a>
-    </li>
-    <li>
-      <a href="https://github.com/qqlexa/hackerrank/tree/main/Easy/Apple%20and%20Orange">Apple and Orange</a>
-    </li>
   </ol>
   <!--
   <ol>Hard
